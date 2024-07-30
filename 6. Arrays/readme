@@ -11,7 +11,7 @@ d. Mutable: You can modify the elements of an array.
 
 Types of Arrays:
 i.   Single-Dimensional Arrays: The most basic type, holding a list of elements.
-     let numbers = [1, 2, 3, 4, 5];
+     let numbers = [1, 2, 3, 4, 5];;
 
 ii.  Multi-Dimensional Arrays: Arrays of arrays, often used to represent matrices or grids.
      let matrix = [
